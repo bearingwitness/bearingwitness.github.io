@@ -6,4 +6,17 @@ editor: Alex Gil
 permalink: /bibliography/
 ---
 
-{% bibliography %}
+- TOC
+{:toc}
+
+---
+
+## Popular Publications
+
+{% bibliography --file popular %}
+
+---
+
+## Scholarly Publications
+
+{% bibliography --file scholarly %}
