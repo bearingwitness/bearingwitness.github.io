@@ -20,3 +20,9 @@ permalink: /bibliography/
 ## Scholarly Publications
 
 {% bibliography --file scholarly %}
+
+---
+
+## Audiovisual Materials
+
+{% bibliography --file audiovisual %}

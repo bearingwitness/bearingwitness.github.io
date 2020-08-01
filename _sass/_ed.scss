@@ -58,8 +58,20 @@ body {
 	margin-bottom: 4rem;
 }
 
-/*
- * Wrapper
+.profile {
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+  margin-bottom: 1.2rem;
+}
+
+
+/* Wrapper
  *
  * The wrapper is used to position site content when the sidebar is toggled. We
  * use an outter wrap to position the sidebar without interferring with the
@@ -139,7 +151,8 @@ h3, h4, h5 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1.2rem;
+  font-size: 1.2rem;
 
 }
 
@@ -864,5 +877,7 @@ span.caption {
 }
 
 
-
-
+iframe {
+  width: 140%;
+  margin-left: -20%;
+}
