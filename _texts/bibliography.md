@@ -26,3 +26,10 @@ permalink: /bibliography/
 ## Audiovisual Materials
 
 {% bibliography --file audiovisual %}
+
+---
+
+## Digital Materials
+
+{% bibliography --file digital %}
+
