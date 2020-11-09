@@ -6,7 +6,9 @@ editor: Alex Gil
 permalink: /timelines/
 ---
 
-### December 2019-March 2020
+We have chosen to organize timeline events by date to ensure the practicality and useability of the timelines; these timelines encompass hundreds of coronavirus events that occur from December 2019 through December 2020.
+
+### December--March 2020
 
 This first timeline in the series documents the evolving impact of the novel coronavirus on racialized minorities in the United States from December 2019 through March 2020. Key events covered in this timeline include:
 
@@ -22,7 +24,7 @@ This first timeline in the series documents the evolving impact of the novel cor
 
 <hr>
 
-### April 2020-June 2020
+### April--June 2020
 
 This second timeline in the series documents the evolving impact of the novel coronavirus on racialized minorities in the United States from April 2020 through June 2020. Key events covered in this timeline include:
 
@@ -40,7 +42,7 @@ This second timeline in the series documents the evolving impact of the novel co
 
 <hr>
 
-### July 2020-September 2020
+### July--September 2020
 
 This third timeline in the series documents the evolving impact of the novel coronavirus on racialized minorities in the United States from July 2020 through September 2020. Key events covered in this timeline include:
 
@@ -59,10 +61,10 @@ This third timeline in the series documents the evolving impact of the novel cor
 
 ### October-December 2020
 
-We are currently in this timeline... visit this space soon for more.
+We are still in this timeline, and we make it available here as it develops.
 
 <br>
 
-<!-- <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10svqsxVDh3GzGS8cQcfkekkNq3VYlhiMgw5bpObMqGM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> -->
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10svqsxVDh3GzGS8cQcfkekkNq3VYlhiMgw5bpObMqGM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <hr>
