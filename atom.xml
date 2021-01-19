@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Bearing Witness</title>
+ <link href="https://bearingwitness.github.io//atom.xml" rel="self"/>
+ <link href="https://bearingwitness.github.io//"/>
+ <updated>2021-01-19T11:17:53-05:00</updated>
+ <id>https://bearingwitness.github.io/</id>
+ <author>
+   <name>Alex Gil</name>
+   <email>colibri.alex@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
