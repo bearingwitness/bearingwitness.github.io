@@ -61,7 +61,16 @@ This third timeline in the series documents the evolving impact of the novel cor
 
 ### October-December 2020
 
-We are still in this timeline, and we make it available here as it develops.
+This fourth timeline in the series documents the evolving impact of the novel coronavirus on racialized minorities in the United States from October 2020 through December 2020. Key events covered in this timeline include:
+
+- The release of a four-phase framework for the equitable distribution of a Covid-19 vaccine by the National Academies of Sciences, Engineering, and Medicine; physicians and journalists debated the strengths and limitations of this framework after its release. Distribution debates became increasingly heightened following the U.S. Food and Drug Administration’s release of an emergency use authorization (EUA) for a Pfizer-developed vaccine on December 11, 2020. There is generally broad agreement that frontline workers, healthcare staff, and nursing home occupants should be among the first recipients of a vaccine.  
+- The work of physicians and public health officials to address vaccine hesitancy among minority communities across America; medical professionals explain this hesitancy as broadly linked to the inadequate representation of minorities in Covid-19 vaccination trails, the persistence of medical distrust in the decades following the Tuskegee syphilis experiment, and the broader history of systemic racism in the United States.
+- The continued reporting of Covid-19 outbreaks in prisons and jails across the United States; in one instance, the ACLU and other civil rights groups sued the Federal Bureau of Prisons over its handling of Covid-19 outbreaks at the prison in Butner, North Carolina.  During this period, there is also mounting advocacy surrounding the rights of incarcerated individuals to economic stimulus checks. 
+- The release of a report—developed by researchers at the Providence Veterans Affairs Medical Center, Lifespan Hospitals, and the Warren Alpert Medical School at Brown University in Rhode Island—on the connection between poor housing conditions and the incidence of and mortality associated with Covid-19. Additional studies also explored the impact of homelessness on Covid-19 outcomes.
+- The continued investigation of Covid-19 outcomes in children; the American Academy of Pediatrics and the Children’s Hospital Association collaborated to synthesize data of Covid-19 cases among children.  The collaborators found that since the pandemic outset, child cases increased from roughly 2% to 11% in states reporting cases by age. Despite mounting cases among children, hospitalization rates and mortality remain low.
+- The increased reporting on the relationship between the Covid-19 pandemic and gender-based violence and gender inequality. Women in the United States, for example, have broadly experienced significant job losses and unsafe working conditions in “contact-intensive” industries (e.g., education, health services, and retail); working women also bear a significant burden from the mass closure of schools and daycare centers.
+
+
 
 <br>
 
